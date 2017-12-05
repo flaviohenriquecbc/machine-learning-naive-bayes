@@ -11,9 +11,10 @@ To train our model we will be using the [dataset](https://archive.ics.uci.edu/ml
 
 ### Running the project
 1. Clone the project
-2. Run:
+2. Unzip the dataset on dataset folder (we should have the file as dataset/SMSSpamCollection)
+3. Run:
 
 ```python
-    $ 
+    $ python bayes.py
 ```
 
